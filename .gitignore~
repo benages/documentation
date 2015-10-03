@@ -1,0 +1,5 @@
+.DS_Store
+.couscous
+vendor
+composer.lock
+*~
